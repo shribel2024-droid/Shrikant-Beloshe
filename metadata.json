@@ -1,0 +1,6 @@
+{
+  "name": "Pharma OSD Scale-Up Calculator",
+  "description": "Pharmaceutical oral solid dosage form equipment scale-up calculator, process mapping, and tech-transfer documentation aid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
